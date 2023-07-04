@@ -16,7 +16,7 @@ La microaplicación mf-main es parte de la aplicación MicroFrontQNEWSAPP. Es la
 Muestra el contenido principal de la página con noticias relevantes.
   </li>
   <li>
-Proporciona un buscador por palabra clave para buscar noticias específicas.
+Proporciona un buscador por palabra clave para buscar noticias específicas. (en desarrollo)
   </li>
   <li>
 Permite filtrar las noticias por categorías, como política, deportes, entretenimiento, etc.
