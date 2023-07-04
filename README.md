@@ -6,7 +6,6 @@ La microaplicación mf-main es parte de la aplicación MicroFrontQNEWSAPP. Es la
   <li>SingleSPA</li>
   <li>ReactJs</li>
   <li>Tailwind</li>
-  <li>Axios</li>
   <li>TypeScript</li>
 </ul>
 
