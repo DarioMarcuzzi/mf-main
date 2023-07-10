@@ -54,6 +54,10 @@ Ejecute el siguiente comando para instalar las dependencias: <strong>npm install
   <li>
 Ejecute el siguiente comando para iniciar la microaplicación: <strong>npm start</strong>
   </li>
+  </li>
+  <li>
+Ejecute el siguiente comando para iniciar la microaplicación por separado (para montar solo la app sin tener que montar todas las otras microapp): <strong>npm run start:standalone</strong>
+  </li>
 </ol>
 
 La microaplicación mf-main se ejecutará en su navegador y mostrará la sección de cotizaciones de monedas.
