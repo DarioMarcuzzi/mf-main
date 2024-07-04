@@ -29,7 +29,7 @@ Ofrece una interfaz de usuario intuitiva y fácil de usar para navegar por las n
 Antes de ejecutar la microaplicación mf-main, asegúrese de cumplir con los siguientes requisitos:
 <ul>
   <li>
-Node.js instalados en su entorno de desarrollo.
+Node.js instalado en su entorno de desarrollo.
   </li>
   <li>
 El servidor backNews en funcionamiento y configurado correctamente.
